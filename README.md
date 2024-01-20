@@ -1,12 +1,10 @@
-### Hi, I'm Jenestin Anthonipillai 👋🏾
+<h1 align="center">Hi, I'm Jenestin Anthonipillai 👋🏾</h1>
+<h3 align="center">I'm a master's student in Computer Science at EPFL/HSG, currently working in the <a href="https://schwallergroup.github.io/team.html">Laboratory of Artificial Chemical Intelligence</a> under the supervision of Professor Philippe Schwaller on building a search engine for chemical reactions.</h3>
+
+
+### Hi, 
 
 ## About Me 📖
 
-- 🎓 I graduated from [Your University] with a degree in [Your Degree].
-- 🔭 I’m currently working on [what you're working on].
-- 🌱 I’m currently learning [what you're learning].
-- 👯 I’m looking to collaborate on [type of projects you're interested in].
-- 💬 Ask me about [topics you're comfortable discussing].
-- 📫 How to reach me: [jenestin.anthonipillai@epfl.ch].
-- 😄 Pronouns: [Your pronouns].
-- ⚡ Fun fact: [interesting fact about you].
+- 📫 How to reach me: jenestin.anthonipillai@epfl.ch
+
