@@ -20,7 +20,7 @@
 
 <p align="center">
   <a href="https://github.com/jkoda-rsa/AI-for-Chemistry">
-    <img align="center" alt="Descriptors" src="https://github.com/jkoda-rsa/AI-for-Chemistry/tree/main/img/descriptors.png" width=40% height=40%>
+    <img align="center" alt="Descriptors" src="https://github.com/jkoda-rsa/AI-for-Chemistry/blob/main/img/descriptors.png" width=40% height=60%>
     <p align="center">$\texttt{predskite}$: Prediction of novel charge transport layers for efficient perovskite solar cells</p>
   </a>
 </p>
