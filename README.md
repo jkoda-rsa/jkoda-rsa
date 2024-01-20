@@ -5,9 +5,9 @@
 
 ## About Me 📖
 -  💻 My technical interests:
-  - **AI for Chemistry**
-  - **NLP** 
-  - **Statistics**
+    - **AI for Chemistry**
+    - **NLP** 
+    - **Statistics**
 - 📫 How to reach me: jenestin.anthonipillai@epfl.ch
 
 <h3 align="left">Connect with me:</h3>
