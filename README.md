@@ -17,7 +17,12 @@
 ---
 
 ### Here are some projects that I've worked on:
-
+<p align="center">
+  <a href="https://github.com/jkoda-rsa/Code-Based-Cryptosystems">
+    <img align="center" alt="Descriptors" src="https://github.com/jkoda-rsa/Code-Based-Cryptosystems/blob/main/img/result.png" width=80% height=80%>
+    <p align="center">$\texttt{Machine Learning-Based Attacks on Code-Based Cryptosystems}$: Syndrome decoding problem</p>
+  </a>
+</p>
 <p align="center">
   <a href="https://github.com/jkoda-rsa/AI-for-Chemistry">
     <img align="center" alt="Descriptors" src="https://github.com/jkoda-rsa/AI-for-Chemistry/blob/main/img/descriptors.png" width=80% height=80%>
